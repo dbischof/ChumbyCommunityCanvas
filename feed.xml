@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<squares key="5">
+	<square id="0" color="1" />
+	<square id="2" color="0" />
+	<square id="3" color="2" />
+	<square id="4" color="2" />
+	<square id="5" color="5" />
+	<square id="6" color="0" />
+	<square id="7" color="0" />
+</squares>
